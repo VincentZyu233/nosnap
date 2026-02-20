@@ -41,6 +41,8 @@ Ubuntu 越来越臃肿，再这么搞下去怕是要被开除 Linux 籍了。别
 ```bash
 # 下载脚本
 git clone https://github.com/你的用户名/nosnap.git
+# 或者去gitee下载
+git clone https://gitee.com/vincent-zyu/nosnap
 cd nosnap
 
 # 赋予执行权限
